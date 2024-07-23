@@ -2,7 +2,7 @@
 My name is Chuong Huynh. I am currently a student majoring in Information Technology at University. I am very interested in topics related to .NET and AI.<br>
 ## 📫 How to reach me: 
 
-[![GitHub]GitHub](https://github.com/jin3107/)
+[GitHub](https://github.com/jin3107/)
 
 
 
