@@ -4,14 +4,14 @@ My name is Chuong Huynh. I am currently a student majoring in Information Techno
 
 [GitHub](https://github.com/jin3107/)
 
-![Chuong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Chuong's github stats](https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
  
 <a href="https://github.com/jin3107/CRUD/">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jin3107&repo=CRUD&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jin3107&repo=CRUD&theme=cobalt" />
 </a>
 
 <a href="https://github.com/jin3107/FirstWebAPI/">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jin3107&repo=FirstWebAPI&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jin3107&repo=FirstWebAPI&theme=cobalt" />
 </a>
