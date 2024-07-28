@@ -14,5 +14,5 @@ My name is Chuong Huynh. I am currently a student majoring in Information Techno
 
 <a href="https://github.com/jin3107/RESTful.API/">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jin3107&repo=RESTful.API&theme=corbalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jin3107&repo=RESTful.API&theme=cobalt" />
 </a>
