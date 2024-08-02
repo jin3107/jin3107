@@ -7,7 +7,7 @@ My name is Chuong Huynh. I am currently a student majoring in Information Techno
 ![Chuong's github stats](https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
  
 
-<a href="https://github.com/jin3107/Project_Overview/">
+<!-- a href="https://github.com/jin3107/Project_Overview/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jin3107&repo=Project_Overview&theme=gruvbox" />
 </a>
 
