@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Chuong Huynh. I am currently a student majoring in Information Technology at University. I am very interested in topics related to .NET and AI.<br>
+My name is Chuong Huynh. I am currently a student majoring in Information Technology at University. I am very interested in topics related to .NET and AI <br>
 ## 📫 How to reach me: 
 
 [GitHub](https://github.com/jin3107/)
