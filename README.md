@@ -10,3 +10,8 @@ My name is Chuong. I am currently a student majoring in Information Technology a
 <a href="https://github.com/jin3107/RESTful.API/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jin3107&repo=RESTful.API&theme=cobalt" />
 </a>
+
+ 
+<a href="https://github.com/jin3107/Alien_Invasion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jin3107&repo=Alien_Invasion&theme=cobalt" />
+</a>
