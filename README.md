@@ -4,7 +4,7 @@ My name is Chuong. I am currently a student majoring in Information Technology a
 
 [GitHub](https://github.com/jin3107/) 
 
-![Chuong's github stats]((https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight))
+![Chuong's github stats](https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight)
 
 <!--table class="mb-2">
 <a href="https://github.com/jin3107/<Name-Repository>/">
