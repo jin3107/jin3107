@@ -7,8 +7,8 @@ My name is Chuong. I am currently majoring in Information Technology at [TienGia
 - **Tools**: Git, Visual Studio, etc.
 
 ## 📫 How to reach me:
-- [GitHub](https://github.com/jin3107/) 
-- [LinkedIn](https://www.linkedin.com/in/huynh-chuong-7b80242b2/)
+- My GitHub: [GitHub](https://github.com/jin3107/) 
+- My LinkedIn: [LinkedIn](https://www.linkedin.com/in/huynh-chuong-7b80242b2/)
 - Email: tanchuonghuynh3@gmail.com
 
 ![Chuong's github stats](https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight&hide=stars)
