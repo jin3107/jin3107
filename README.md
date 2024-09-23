@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Chuong. I am currently a student majoring in Information Technology at [University Name]. I am very interested in topics related to .NET and software development.
+My name is Chuong. I am currently majoring in Information Technology at [TienGiang University]. I am very interested in topics related to .NET and software development.
 
 ## 🔧 Technologies & Tools
 - **Languages**: C#, JavaScript, etc.
@@ -8,8 +8,8 @@ My name is Chuong. I am currently a student majoring in Information Technology a
 
 ## 📫 How to reach me:
 - [GitHub](https://github.com/jin3107/) 
-- [LinkedIn](your-linkedin-url) (nếu có)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/huynh-chuong-7b80242b2/)
+- Email: tanchuonghuynh3@gmail.com
 
 ![Chuong's github stats](https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight&hide=stars)
 
@@ -17,5 +17,4 @@ My name is Chuong. I am currently a student majoring in Information Technology a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=tokyonight)
 
 ## 📂 My Projects
-- [Project 1](link-to-project): Mô tả ngắn gọn về dự án.
-- [Project 2](link-to-project): Mô tả ngắn gọn về dự án.
+- [Project 1](https://github.com/jin3107/EFCoreTutorialsConsole): Entity Framework Cơ bản trên Ứng dụng Console
