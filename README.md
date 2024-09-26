@@ -16,5 +16,5 @@ My name is Chuong. I am currently majoring in Information Technology at [TienGia
 ## 📈 GitHub Activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=tokyonight)
 
-## 📂 My Projects
-- [Project 1](https://github.com/jin3107/EFCoreTutorialsConsole): Entity Framework Cơ bản trên Ứng dụng Console
+## 📂 My Repositories
+- [Repository 1](https://github.com/jin3107/EFCoreTutorialsConsole): Entity Framework Cơ bản trên Ứng dụng Console
