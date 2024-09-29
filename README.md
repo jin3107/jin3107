@@ -17,8 +17,6 @@ My name is Chuong. I am currently majoring in Information Technology at [TienGia
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=tokyonight)
 
 ## 📂 My Repositories
-- [EFCoreTutorialsConsole](https://github.com/jin3107/EFCoreTutorialsConsole)
-- [APITutorials](https://github.com/jin3107/APITutorials)
 
 <a href="https://github.com/jin3107/EFCoreTutorialsConsole">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jin3107&repo=EFCoreTutorialsConsole&theme=cobalt" />
