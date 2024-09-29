@@ -20,9 +20,9 @@ My name is Chuong. I am currently majoring in Information Technology at [TienGia
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/jin3107/EFCoreTutorialsConsole" style="flex: 1; margin-right: 10px;">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jin3107&repo=EFCoreTutorialsConsole&theme=cobalt" style="width: 100%;" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jin3107&repo=EFCoreTutorialsConsole&theme=cobalt" style="width: 80%;" />
   </a>    
   <a href="https://github.com/jin3107/APITutorials" style="flex: 1; margin-left: 10px;">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jin3107&repo=APITutorials&theme=synthwave" style="width: 100%;" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jin3107&repo=APITutorials&theme=synthwave" style="width: 80%;" />
   </a>
 </div>
