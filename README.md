@@ -11,9 +11,6 @@ My name is Chuong. I am currently majoring in Information Technology at [TienGia
 - My LinkedIn: [LinkedIn](https://www.linkedin.com/in/huynh-chuong-7b80242b2/)
 - Email: tanchuonghuynh3@gmail.com
 
-<div class="table mb-2">
-  ![Chuong's github stats](https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight&hide=stars)
-  
-  ## 📈 GitHub Activity
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=tokyonight)
-</div>
+## 📈 GitHub Stats
+![Chuong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight&hide=stars)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=tokyonight)
