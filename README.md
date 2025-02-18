@@ -15,5 +15,5 @@ My name is Chuong. I am currently majoring in Information Technology at [TienGia
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=dracula&hide=stars" alt="Chuong's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=cobalt" alt="Top Languages" />
 </div>
