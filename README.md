@@ -13,7 +13,7 @@ I'm **Chuong**, an Information Technology student at **Tien Giang University**. 
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=radical&hide=stars" width="50%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=tokyonight&hide=stars" width="50%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=tokyonight" width="39%" alt="Top Languages"/>
 </p>
 
