@@ -1,5 +1,5 @@
 ### 👋 WELCOME TO MY PAGE  
-I'm **Chuong**, an Information Technology student at **Tien Giang University**. Passionate about **.NET** and software development.  
+I'm **Chuong**, an Information Technology student at **Tien Giang University**. Passionate about **.NET** and web development.  
 
 ## 🔧 Tech Stack  
 - **Languages**: C#, JavaScript  
