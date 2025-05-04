@@ -18,8 +18,8 @@ I'm passionate about **.NET**, **Web Development**, and constantly improving my 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://jin3107.vercel.app/api?username=jin3107&show_icons=true&theme=radical&hide=stars" width="48%"/>
-  <img src="https://jin3107.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=radical" width="40%"/>
+  <img src="https://jin3107.vercel.app/api?username=jin3107&show_icons=true&theme=cobalt&hide=stars" width="48%"/>
+  <img src="https://jin3107.vercel.app/api/top-langs/?username=jin3107&layout=compact&theme=cobalt" width="38%"/>
 </p>
 
 ---
