@@ -15,8 +15,8 @@ Hi, I'm Chuong – an IT student at Tien Giang University.<br>I'm passionate abo
   <img src="https://github-readme-stats.vercel.app/api?username=jin3107&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=jin3107&theme=radical&hide_border=false" /><br/>
   -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img align="left" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
 
