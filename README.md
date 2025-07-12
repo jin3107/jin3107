@@ -10,14 +10,10 @@ Hi, I'm Chuong – an IT student at Tien Giang University.<br>I'm passionate abo
 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=jin3107&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jin3107&theme=radical&hide_border=false" /><br/>
-  -->
-  <img align="left" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" width="460"/>
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
