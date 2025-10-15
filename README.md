@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Chuong – an IT student at Tien Giang University.<br>I'm passionate about .NET, Web Development, and constantly improving my Backend skills.
+Hi, I'm Rainy – an IT student at Tien Giang University.<br>I'm passionate about .NET, Web Development, and constantly improving my Backend skills.
 
 
 ## 🌐 Socials:
