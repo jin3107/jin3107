@@ -11,8 +11,8 @@ Hi, I'm Rainy – an IT student at University.<br>I'm passionate about .NET, Web
 
 # 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" width="460"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" width="460"/>
 </div>
 
 
