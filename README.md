@@ -10,8 +10,8 @@ Hi, I'm Rainy – an IT student at University.<br>I'm passionate about .NET, Web
 
 
 ## GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin3107&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jin3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true)
+![Top Langs](https://github-readme-stats-chi-orcin-94.vercelapp/api/top-langs/?username=jin3107&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![GitHub Stats](https://github-readme-stats-chi-orcin-94.vercelapp/api?username=jin3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true)
 
 <!-- 
 <img src="https://github-readme-stats-liart-mu-neibragd41.vercel.app/api/top-langs/?username=jin3107&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="350"/>
