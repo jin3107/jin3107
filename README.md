@@ -7,7 +7,7 @@
 </div>
 
 ## About Me
-Hi, I'm Rainy – an IT student at University.
+Hi, I'm Jin – an IT student at University.
 I'm passionate about .NET, Web Development, and constantly improving my Backend skills.
 
 <!-- - 🔭 Currently building: [**Tenant-Agent-Hub**](https://github.com/jin3107/Tenant-Agent-Hub) – multi-tenant backend integrating AI agents via MCP -->
