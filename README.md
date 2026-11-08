@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Rainy&fontSize=54&fontColor=fff&fontAlignY=31&desc=.NET%20Backend%20%C2%B7%20IT%20Student&descSize=16&descAlignY=51&animation=fadeIn" />
+<img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Jin&fontSize=53&fontColor=fff&fontAlignY=31&desc=.NET%20Backend%20%C2%B7%20IT%20Student&descSize=15&descAlignY=50&animation=fadeIn" />
 
 <a href="https://github.com/jin3107"><img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=5C9DFF&center=true&vCenter=true&width=560&height=40&lines=.NET+Backend+Developer;Clean+Architecture+%26+CQRS+learner;Building+things+that+actually+run" /></a>
 
