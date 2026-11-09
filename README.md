@@ -10,11 +10,11 @@
 Hi, I'm Jinn – an IT student at University.
 I'm passionate about .NET, Web Development, and constantly improving my Backend skills.
 
-<!-- - 🔭 Currently building: [**Tenant-Agent-Hub**](https://github.com/jin3107/Tenant-Agent-Hub) – multi-tenant backend integrating AI agents via MCP -->
 - 🌱 Currently learning: Clean Architecture, CQRS, Redis caching
 - 🐾 Side project: [**pixel-pet**](https://github.com/jin3107/pixel-pet) – a pixel-art pet that roams your Windows taskbar
 
 ## Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-jin3107.is--a.dev-5C9DFF?logo=googlechrome&logoColor=white)](https://jin3107.is-a.dev)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jin3107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huynh-chuong-7b80242b2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanchuonghuynh3@gmail.com)
 
 ## Tech Stack
